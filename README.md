@@ -6,4 +6,4 @@ Estudante de Análise e Desenvolvimento de sistemas na [FATEC.SJC](http://fatecs
 [![instagran]( https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pauloafonsocruz/)
 [![mailto:]( https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whitee)](mailto:paulo.cruz20@fatec.sp.gov.br)
 
-![Paulo's GitHub stats]( https://github-readme-stats.vercel.app/api?username=PauloCruz34&show_icons=true&theme=radical)                                                 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloCruz34)](https://github.com/PauloCruz34/github-readme-stats)
+![Paulo's GitHub stats]( https://github-readme-stats.vercel.app/api?username=PauloCruz34&show_icons=true&theme=radical)                                                 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloCruz34&show_icons=true&theme=radical)](https://github.com/PauloCruz34/github-readme-stats)
