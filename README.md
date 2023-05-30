@@ -9,3 +9,21 @@ Estudante de Análise e Desenvolvimento de sistemas na [FATEC.SJC](http://fatecs
 
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloCruz34&show_icons=true&theme=radical)](https://github.com/PauloCruz34/github-readme-stats)
 ![Paulo's GitHub stats]( https://github-readme-stats.vercel.app/api?username=PauloCruz34&show_icons=true&theme=radical)   
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
+    "
+  />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
+    "
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
