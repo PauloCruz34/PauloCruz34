@@ -2,6 +2,10 @@
 ### Estudante de Tecnologia em Banco de Dados na [FATEC.SJC](http://fatecsjc-prd.azurewebsites.net/)
 
 
+
+<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="420" height="350">
+
+
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-afonso-cruz-304256174/)
 [![Facebook]( https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=whitee)](https://www.facebook.com/paulo.afonso.334)
 [![instagran]( https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pauloafonsocruz/)
