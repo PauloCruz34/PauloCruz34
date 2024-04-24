@@ -37,14 +37,14 @@
         alt="Github Stats"
       />
     </td>
-    <td>
+<!--     <td>
       <br />
       <img
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=PauloCruz34&theme=dark&hide_border=false"
         alt="Github Stats"
       />
-    </td>
+    </td> -->
   </tr>
 </table>
  
