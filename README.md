@@ -37,7 +37,7 @@
         alt="Github Stats"
       />
     </td>
-<!--     <td>
+   <td>
       <br />
       <img
         align="left"
